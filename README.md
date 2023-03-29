@@ -1,4 +1,4 @@
-# Seattle-Weather
+# Data Description
 DATA 3320 Class Project
 1. Desciption: This data look show the record of rain in Seattle, Washington and St. Charles, Missouri from 2018 to 2022. Below is the data sources.
 2. Data:
