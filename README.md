@@ -5,4 +5,7 @@ DATA 3320 Class Project
 3. The data sets seattle_rain.csv and stl_rain.csv can be accessed from the Github repository for DATA 3320 in the weather folder.
 
   Seattle Rain: https://github.com/brian-fischer/DATA-3320/blob/87e2c1a561ab4364364cfe2fd5d1e6578c147153/weather/seattle_rain.csv\
+  
   STL Rain: https://github.com/brian-fischer/DATA-3320/blob/87e2c1a561ab4364364cfe2fd5d1e6578c147153/weather/stl_rain.csv
+
+4. Data Preperation: This is the process of identifying missing values and imputing datas, thus create a clean version of the dataset. The process includes joining datasets to identify missing values, an algorithm is performed to impute data using the average of the precipitation of the days in the years. 
