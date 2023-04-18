@@ -16,3 +16,4 @@
      3. How has the average monthly precipitation in Seattle and St. Louis changed over the years?
 
 From the three questions, we can conclude that Seattle experience more rain than St. Louis. We can also notice a seasonal pattern in which Seattle rains more in the Fall and Winter months whereas St. Louis rains more evenly throughout the year. In addition, St. Louis also expereince more dry days compare to Seattle. Even though St. Louis's rainy days are more evenly distributed, Seattle still has more rainy days; therefore Seattle rains more than St. Louis. 
+6. Conclusion and Result: 
