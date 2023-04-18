@@ -17,4 +17,4 @@
 
 From the three questions, we can conclude that Seattle experience more rain than St. Louis. We can also notice a seasonal pattern in which Seattle rains more in the Fall and Winter months whereas St. Louis rains more evenly throughout the year. In addition, St. Louis also expereince more dry days compare to Seattle. Even though St. Louis's rainy days are more evenly distributed, Seattle still has more rainy days; therefore Seattle rains more than St. Louis. 
 
-6. Conclusion and Result: https://docs.google.com/document/d/1mpGRjXYcNOBbbe3Hx-bvkB9kjBByJZyjmNfYymqyciM/edit
+6. Author: Linh Le
